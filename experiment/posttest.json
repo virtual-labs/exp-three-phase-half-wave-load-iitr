@@ -1,6 +1,4 @@
-{
-    "version": 2.0,
-    "questions":[
+[
 		{
 			"question": "What triggers a silicon controlled rectifier?",
 			"answers": {
@@ -52,4 +50,3 @@
 			"correctAnswer": "a"
 		}
 	]
-}

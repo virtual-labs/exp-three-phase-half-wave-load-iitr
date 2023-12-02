@@ -1,6 +1,4 @@
-{
-    "version": 2.0,
-    "questions":[
+[
 		{
 			"question": "In a three-phase half wave rectifier usually, why is the primary side of the transformer delta connected?",
 			"answers": {
@@ -52,7 +50,7 @@
 			"correctAnswer": "a"
 		}
 	]
-}
+
 
 
 
