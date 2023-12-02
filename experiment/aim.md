@@ -1,1 +1,1 @@
-### To study the three phase half wave silicon controlled rectifier with R load and RL load.
+#### To study the three phase half wave silicon controlled rectifier with R load and RL load.

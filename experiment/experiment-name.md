@@ -1,1 +1,1 @@
-## Three Phase Half Wave Silicon Controlled Rectifier With R Load and RL Load
+## Three Phase Half Wave Silicon Controlled Rectifier with R Load and RL Load
