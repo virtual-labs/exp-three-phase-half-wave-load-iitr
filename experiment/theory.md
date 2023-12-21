@@ -1,4 +1,12 @@
 
+<head>
+
+<script type="text/javascript" async src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-MML-AM_CHTML"> 
+  
+</script>
+
+</head>
+
 <div style="font-family: 'Nunito Sans', sans-serif; font-size: 20px;text-align: justify;">
 
 ### **Introduction**
@@ -44,31 +52,31 @@ For &alpha; < 30&deg;<br>
 
 <center>
 
-$V_{o} = \frac {1}{\frac {2\pi}{3}} \int_{\alpha+\frac {\pi}{6}}^{\alpha+\frac {5\pi}{6}} V_{mp}\, sinwt\, dwt \,=\,\frac {3\sqrt 3}{2\pi}\,V_{mp}\,cos\alpha\,=\,\frac {3}{2\pi}\,V_{ml}\,cos\alpha.......(1)$
+$$V_{o} = \frac {1}{\frac {2\pi}{3}} \int_{\alpha+\frac {\pi}{6}}^{\alpha+\frac {5\pi}{6}} V_{mp}\ sinwt ~ dwt = \frac {3\sqrt 3}{2\pi}V_{mp}\cos\alpha = \frac {3}{2\pi}V_{ml}\cos\alpha.......(1)$$
 
 </center>
 
 <center>
 
-$I_{o}\,=\,\frac {V_{o}}{R}\,=\,\frac {3}{2\pi R}\,V_{ml}\,cos\alpha.......(2)$
+$$I_{o}= \frac {V_{o}}{R} = \frac {3}{2\pi R}V_{ml}\cos\alpha.......(2)$$
 
 </center>
 
 <center>
 
-$V_{o(rms)} = \left[ \frac {1}{\frac {2\pi}{3}} \int_{\alpha+\frac {\pi}{6}}^{\alpha+\frac {5\pi}{6}} V_{mp}^2\, sin^2wt\, dwt \right]^{1/2}$
+$$V_{o~(rms)} = \left[ \frac {1}{\frac {2\pi}{3}} \int_{\alpha+\frac {\pi}{6}}^{\alpha+\frac {5\pi}{6}} V_{mp}^2\ sin^2wt\ dwt \right]^{1/2}$$
 
 </center>
 
 <center>
 
-$V_{o(rms)} = \sqrt {3} V_{mp} \left[ \frac {1}{6} + \frac {\sqrt {3}}{8\pi} cos2\alpha \right]^{1/2}\,=\,V_{ml} \left[ \frac {1}{6} + \frac {\sqrt {3}}{8\pi} cos2\alpha \right]^{1/2}.......(3)$
+$$V_{o~(rms)} = \sqrt {3} V_{mp} \left[ \frac {1}{6} + \frac {\sqrt {3}}{8\pi} cos2\alpha \right]^{1/2} = V_{ml} \left[ \frac {1}{6} + \frac {\sqrt {3}}{8\pi} cos2\alpha \right]^{1/2}.......(3)$$
 
 </center>
 
 <center>
 
-$I_{o(rms)}\,=\,\frac {V_{o(rms)}}{R}\,=\,\frac {\sqrt {3} V_{mp}}{R} \left[ \frac {1}{6} + \frac {\sqrt {3}}{8\pi} cos2\alpha \right]^{1/2}.......(4)$
+$$I_{o~(rms)} = \frac {V_{o~(rms)}}{R} = \frac {\sqrt {3} V_{mp}}{R} \left[ \frac {1}{6} + \frac {\sqrt {3}}{8\pi} cos2\alpha \right]^{1/2}.......(4)$$
 
 </center>
 
@@ -76,31 +84,31 @@ For &alpha; > 30&deg;<br>
 
 <center>
 
-$V_{o} = \frac {1}{\frac {2\pi}{3}} \int_{\alpha+\frac {\pi}{6}}^{\pi} V_{mp}\, sinwt\, dwt \,=\,\frac {3}{2\pi}\,V_{mp}\,[1+cos(\alpha+30^{\circ})]......(5)$
+$$V_{o} = \frac {1}{\frac {2\pi}{3}} \int_{\alpha+\frac {\pi}{6}}^{\pi} V_{mp}\ sinwt\ dwt = \frac {3}{2\pi}V_{mp} \bigg[1+cos(\alpha+30^{\circ})\bigg] ......(5)$$
 
 </center>
 
 <center>
 
-$I_{o} = \frac {V_{o}}{R} \,=\,\frac {3}{2\pi R}\,V_{mp}\,[1+cos(\alpha+30^{\circ})]  .......(6)$
+$$I_{o} = \frac {V_{o}}{R} = \frac {3}{2\pi R} V_{mp} \bigg[1+cos(\alpha+30^{\circ}) \bigg]  .......(6)$$
 
 </center>
 
 <center>
 
-$V_{o(rms)} = \left[ \frac {1}{\frac {2\pi}{3}} \int_{\alpha+\frac {\pi}{6}}^{\pi} V_{mp}^2\, sin^2wt\, dwt \right]^{1/2}$
+$$V_{o~(rms)} = \left[ \frac {1}{\frac {2\pi}{3}} \int_{\alpha+\frac {\pi}{6}}^{\pi} V_{mp}^2\ sin^2wt\ dwt \right]^{1/2}$$
 
 </center>
 
 <center>
 
-$V_{o(rms)} = \frac {\sqrt {3} V_{mp}}{2\sqrt {\pi}} \left[ \left(\frac {5\pi}{6} - \alpha \right) +\frac {1}{2} sin(2\alpha\,+\,\frac {\pi}{3})\right]^{1/2}.......(7)$
+$$V_{o~(rms)} = \frac {\sqrt {3} V_{mp}}{2\sqrt {\pi}} \left[ \left(\frac {5\pi}{6} - \alpha \right) + \frac {1}{2} sin(2\alpha + \frac {\pi}{3})\right]^{1/2}.......(7)$$
 
 </center>
 
 <center>
 
-$I_{o(rms)}\,=\,\frac {V_{o(rms)}}{R}\,=\,\frac {\sqrt {3} V_{mp}}{2\sqrt {\pi}R} \left[ \left(\frac {5\pi}{6} - \alpha \right) +\frac {1}{2} sin(2\alpha\,+\,\frac {\pi}{3})\right]^{1/2}.......(8)$
+$$I_{o~(rms)} = \frac {V_{o(rms)}}{R} = \frac {\sqrt {3} V_{mp}}{2\sqrt {\pi}R} \left[ \left(\frac {5\pi}{6} - \alpha \right) +\frac {1}{2} sin(2\alpha + \frac {\pi}{3})\right]^{1/2}.......(8)$$
 
 </center>
 
@@ -125,31 +133,31 @@ angles of the thyristors. The waveforms shows the output voltage for various fir
 The average and rms of bridge output voltage and current is,<br>
 <center>
 
-$V_{o} = \frac {1}{\frac {2\pi}{3}} \int_{\alpha+\frac {\pi}{6}}^{\alpha+\frac {5\pi}{6}} V_{mp}\, sinwt\, dwt \,=\,\frac {3\sqrt 3}{2\pi}\,V_{mp}\,cos\alpha\,=\,\frac {3}{2\pi}\,V_{ml}\,cos\alpha.......(9)$
+$$V_{o} = \frac {1}{\frac {2\pi}{3}} \int_{\alpha+\frac {\pi}{6}}^{\alpha+\frac {5\pi}{6}} V_{mp}\ sinwt\ dwt = \frac {3\sqrt 3}{2\pi}\ V_{mp}\ cos\alpha = \frac {3}{2\pi}\ V_{ml}\ cos\alpha.......(9)$$
 
 </center>
 
 <center>
 
-$I_{o}\,=\,\frac {V_{o}}{R}\,=\,\frac {3}{2\pi R}\,V_{ml}\,cos\alpha.......(10)$
+$$I_{o} = \frac {V_{o}}{R} = \frac {3}{2\pi R}\ V_{ml}\ cos\alpha.......(10)$$
 
 </center>
 
 <center>
 
-$V_{o(rms)} = \left[ \frac {1}{\frac {2\pi}{3}} \int_{\alpha+\frac {\pi}{6}}^{\alpha+\frac {5\pi}{6}} V_{mp}^2\, sin^2wt\, dwt \right]^{1/2}$
+$$V_{o~(rms)} = \left[ \frac {1}{\frac {2\pi}{3}} \int_{\alpha+\frac {\pi}{6}}^{\alpha+\frac {5\pi}{6}} V_{mp}^2\ sin^2wt\ dwt \right]^{1/2}$$
 
 </center>
 
 <center>
 
-$V_{o(rms)} = \sqrt {3} V_{mp} \left[ \frac {1}{6} + \frac {\sqrt {3}}{8\pi} cos2\alpha \right]^{1/2}\,=\,V_{ml} \left[ \frac {1}{6} + \frac {\sqrt {3}}{8\pi} cos2\alpha \right]^{1/2}.......(11)$
+$$V_{o~(rms)} = \sqrt {3} V_{mp} \left[ \frac {1}{6} + \frac {\sqrt {3}}{8\pi} cos2\alpha \right]^{1/2} = V_{ml} \left[ \frac {1}{6} + \frac {\sqrt {3}}{8\pi} cos2\alpha \right]^{1/2}.......(11)$$
 
 </center>
 
 <center>
 
-$I_{o(rms)}\,=\,\frac {V_{o(rms)}}{R}\,=\,\frac {\sqrt {3} V_{mp}}{R} \left[ \frac {1}{6} + \frac {\sqrt {3}}{8\pi} cos2\alpha \right]^{1/2}.......(12)$
+$$I_{o~(rms)} = \frac {V_{o~(rms)}}{R} = \frac {\sqrt {3} V_{mp}}{R} \left[ \frac {1}{6} + \frac {\sqrt {3}}{8\pi} cos2\alpha \right]^{1/2}.......(12)$$
 
 </center>
 
