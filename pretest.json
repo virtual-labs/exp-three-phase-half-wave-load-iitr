@@ -1,0 +1,56 @@
+[
+		{
+			"question": "In a three-phase half wave rectifier usually, why is the primary side of the transformer delta connected?",
+			"answers": {
+				"a": "it has no neutral connection",
+				"b": "we can get greater output voltage",
+				"c": "it provides a path for the triplen harmonics",
+				"d": "it provides better temperature stability"
+			},
+			"correctAnswer": "c"
+		},
+		{
+			"question": "The power delivery and efficiency is low in which rectifier in reference to phases?",
+			"answers": {
+				"a": "Single",
+				"b": "Three",
+				"c": "Both a and b",
+				"d": "None of these"
+			},
+			"correctAnswer": "a"
+		},
+		{
+			"question": "Which of the following is the expression for the average output voltage in three phase half wave controlled rectifier with RL load?",
+			"answers": {
+				"a": "3/2π Vmp cosα",
+				"b": "3√3/2π Vmp cosα",
+				"c": "3√3/π Vmp cosα",
+				"d": "3√3/2π Vml cosα"
+			},
+			"correctAnswer": "b"
+		},
+		{
+			"question": "In which one of the following rectifiers is the direction of power flow is the source to load only?",
+			"answers": {
+				"a": "Controlled",
+				"b": "Uncontrolled",
+				"c": "Both a and b",
+				"d": "None of these"
+			},
+			"correctAnswer": "b"
+		},
+		{
+			"question": "For the three-phase half-wave controlled rectifier circuit with load resistance of 40 Ω the input supply is balanced three-phase with line-to-line voltage rating of 400 V, 50 Hz. Find the average output voltage Vout for a firing angle α = 60°?",
+			"answers": {
+				"a": "155 V",
+				"b": "200 V",
+				"c": "135 V",
+				"d": "250 V"
+			},
+			"correctAnswer": "a"
+		}
+	]
+
+
+
+

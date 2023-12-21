@@ -1,0 +1,52 @@
+[
+		{
+			"question": "What triggers a silicon controlled rectifier?",
+			"answers": {
+				"a": "Voltage",
+				"b": "Current",
+				"c": "Both a and b",
+				"d": "None of these"
+			},
+			"correctAnswer": "c"
+		},
+		{
+			"question": "The control circuit or triggering circuit not required in which rectifiers?",
+			"answers": {
+				"a": "Controlled",
+				"b": "Uncontrolled",
+				"c": "Both a and b",
+				"d": "None of these"
+			},
+			"correctAnswer": "b"
+		},
+		{
+			"question": "The angle of conduction in silicon-controlled rectifiers circuit changed by which voltage?",
+			"answers": {
+				"a": "Anode",
+				"b": "Cathode",
+				"c": "Gate",
+				"d": "None of the above"
+			},
+			"correctAnswer": "c"
+		},
+		{
+			"question": "How many thyristors are used in three phase half wave controlled rectifier?",
+			"answers": {
+				"a": "1",
+				"b": "3",
+				"c": "6",
+				"d": "4"
+			},
+			"correctAnswer": "b"
+		},
+		{
+			"question": "A three-phase half-wave controlled converter is fed from a 3-phase, 400 V source and is connected to a load which takes a constant current of 36 A. Find,the value of average output voltage and average current rating of SCR for a firing angle of 30°?",
+			"answers": {
+				"a": "234 V, 12 A",
+				"b": "234 V, 36 A",
+				"c": "135 V, 12 A",
+				"d": "135 V, 36 A"
+			},
+			"correctAnswer": "a"
+		}
+	]
